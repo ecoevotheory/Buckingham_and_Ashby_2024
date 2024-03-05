@@ -4,7 +4,7 @@ All files are provided "as is", without any express or implied warranty. The aut
 
 Author: Lydia Buckingham, University of Bath
 Contact: ljb74@bath.ac.uk
-Date: 07/11/23
+Date: 02/03/24
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -20,27 +20,37 @@ Be aware that some of the code relies on numerical approximations and so results
 
 SOURCE CODE FOR FIGURES
 
-Figure 1:   "tradeoff_plots_fig1.m"		- Source code for plotting example trade-off functions												- written in matlab (R2019b). 
+Figure 1:   "tradeoff_plots_fig1.m"		- Source code for plotting example trade-off functions		 										- written in matlab (R2019b). 
 
-Figure 2:   "effect_of_lifespan_fig2.m"		- Source code for plotting the effect of lifespan on tolerance and virulence coevolution							- written in matlab (R2019b). 
+Figure 2:   This figure comprises panel A(i) from Figure S2 and panel A(i) from Figure S3. 
 
-Figure 3:   "cycling_simulation_fig3.m"		- Source code for plotting simulations of cycling in tolerance and virulence traits								- written in matlab (R2019b). 
+Figure 3:   "effect_of_lifespan_fig3.m"		- Source code for plotting the effect of lifespan on tolerance and virulence coevolution							- written in matlab (R2019b). 
 
-Figure 4:   "cycling_curve_fig4.m"		- Source code for plotting the effect of lifespan on cycling											- written in matlab (R2019b). 
+Figure 4:   "cycling_simulation_fig4.m"		- Source code for plotting simulations of cycling in tolerance and virulence traits								- written in matlab (R2019b). 
+
+Figure 5:   "cycling_curve_fig5.m"		- Source code for plotting the effect of lifespan on cycling											- written in matlab (R2019b). 
 
 Figure S1:  "lifespan_mutationrate_figS1.m"	- Source code for determining the effect of lifespan and mutation rates on the incidence of bistability and cycling				- written in matlab (R2019b). 
 
-Figure S2:  "lifespan_costs_figS2.m"		- Source code for determining the effect of lifespan and trade-off costs on the incidence of bistability and the evolution of full tolerance	- written in matlab (R2019b). 
+Figure S2:  "lifespan_costs_JL_figS2.m" 	- Source code for determining the effect of lifespan and trade-off costs on coevolutionary outcomes in the juvenile tolerance scenario		- written in matlab (R2019b). 
 
-Figure S3A: "effect_of_lifespan_figS3A.m"	- Source code for plotting the effect of lifespan with baseline transmissibility held fixed (and disease prevalence varying)			- written in matlab (R2019b). 
+Figure S3:  "lifespan_costs_LL_figS3.m"		- Source code for determining the effect of lifespan and trade-off costs on coevolutionary outcomes in the lifelong tolerance scenario		- written in matlab (R2019b). 
 
-Figure S3B: "effect_of_lifespan_figS3B.m"	- Source code for plotting the effect of lifespan with disease prevalence held fixed (and baseline transmissibiltiy varying)			- written in matlab (R2019b). 
+Figure S4:  "lifespan_disprev_noevo_figS4.m" 	- Source code for plotting the effect of lifespan on disease prevalence when tolerance and virulence are evolutionarily static			- written in matlab (R2019b). 
 
-Figure S4:  "phaseplanes_figS4.m"		- Source code for drawing phase planes for different host and parasite relative mutation rates							- written in matlab (R2019b). 
+Figure S5A: "effect_of_lifespan_figS5A.m"	- Source code for plotting the effect of lifespan with baseline transmissibility held fixed (and disease prevalence varying)			- written in matlab (R2019b). 
 
-Figure S5:  "cycling_curve_phaseplanes_figS5.m"	- Source code for plotting the effect of lifespan on cycling, illustrated by phase planes							- written in matlab (R2019b). 
+Figure S5B: "effect_of_lifespan_figS5B.m"	- Source code for plotting the effect of lifespan with disease prevalence held fixed (and baseline transmissibiltiy varying)			- written in matlab (R2019b). 
 
-Figure S6:  "hopf_bifurcation_figS6.m"		- Source code for drawing an Argand diagram of eigenvaluesof the full coevolutionary system							- written in matlab (R2019b). 
+Figure S6:  "phaseplanes_figS6.m"		- Source code for drawing phase planes for different host and parasite relative mutation rates							- written in matlab (R2019b). 
+
+Figure S7:  "virulence_disprev_noevo_figS7.m" 	- Source code for plotting the effect of virulence on the proportional reduction in disease prevalence in the absence of evolution		- written in matlab (R2019b). 
+
+Figure S8:  "cycling_curve_phaseplanes_figS8.m"	- Source code for plotting the effect of lifespan on cycling, illustrated by phase planes							- written in matlab (R2019b). 
+
+Figure S9:  "hopf_bifurcation_figS6.m"		- Source code for drawing an Argand diagram of eigenvaluesof the full coevolutionary system							- written in matlab (R2019b). 
+
+Figure S10: "lifespan_costs_cycling_figS10.m"   - Source code for determining the effect of lifespan and trade-off costs on the incidence of cycling						- written in matlab (R2019b). 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
